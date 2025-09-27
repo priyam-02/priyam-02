@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 I recently completed my Master’s in Computer Science at UNC Charlotte with a 4.0 GPA, where I focused on the intersection of software engineering and artificial intelligence.<br>
 🤖 I’m deeply interested in AI-powered development — especially building LLM-integrated systems, evaluating multilingual code translation with Large Language Models, and orchestrating intelligent workflows using tools like LangChain, Ollama, and FastAPI.<br>
-🚀 I led the development of Polyglot, a large-scale benchmarking framework for LLM-based code translation (56,000+ trials across C, Python, Java, Rust) — submitted to ASE 2025. I also built projects like TalkToLLM, a local chatbot with dynamic model switching and prompt memory, and ClusterNews, which summarizes real-time headlines using LLaMA 3.<br>
+🚀 I led the development of Polyglot, a large-scale benchmarking framework for LLM-based code translation (56,000+ trials across C, Python, Java, Rust) — accepted to ASE 2025. I also built projects like TalkToLLM, a local chatbot with dynamic model switching and prompt memory, and ClusterNews, which summarizes real-time headlines using LLaMA 3.<br>
 💻 Alongside my AI focus, I have a strong foundation in full-stack development, with hands-on experience in React.js, Node.js, Express.js, MongoDB, and growing expertise in TypeScript, Next.js, and Shadcn UI.<br>
 ⚙️ I’ve also worked with Docker, Terraform, and CI/CD pipelines, and I enjoy designing scalable, testable systems with clean architecture.<br>
 🌱 I’m currently diving deeper into AI tooling for the web, serverless GenAI deployment, and prompt engineering best practices for real-world applications.<br>
