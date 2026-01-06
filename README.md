@@ -1,12 +1,18 @@
 # 💫 About Me:
-🎓 I recently completed my Master’s in Computer Science at UNC Charlotte with a 4.0 GPA, where I focused on the intersection of software engineering and artificial intelligence.<br>
-🤖 I’m deeply interested in AI-powered development — especially building LLM-integrated systems, evaluating multilingual code translation with Large Language Models, and orchestrating intelligent workflows using tools like LangChain, Ollama, and FastAPI.<br>
-🚀 I led the development of Polyglot, a large-scale benchmarking framework for LLM-based code translation (56,000+ trials across C, Python, Java, Rust) — accepted to ASE 2025. I also built projects like TalkToLLM, a local chatbot with dynamic model switching and prompt memory, and ClusterNews, which summarizes real-time headlines using LLaMA 3.<br>
-💻 Alongside my AI focus, I have a strong foundation in full-stack development, with hands-on experience in React.js, Node.js, Express.js, MongoDB, and growing expertise in TypeScript, Next.js, and Shadcn UI.<br>
-⚙️ I’ve also worked with Docker, Terraform, and CI/CD pipelines, and I enjoy designing scalable, testable systems with clean architecture.<br>
-🌱 I’m currently diving deeper into AI tooling for the web, serverless GenAI deployment, and prompt engineering best practices for real-world applications.<br>
-📸 Outside tech, I’m into photography and once designed a dynamic gallery app to showcase my clicks!<br>
-🎮 Fun fact: I unwind with RPG games and sci-fi movies—always open to recommendations!
+🚀 Current Role: I am the Founding Engineer at Jorts, where I spearheaded the 0-to-1 build of a geospatial social app. I own the React Native architecture, authentication stack, and backend REST APIs.<br>
+
+🎓 Education: MS in Computer Science from UNC Charlotte (4.0 GPA), specializing in AI and Software Engineering.<br>
+
+🤖 AI Research: I am a published researcher with two papers on LLM-driven software engineering:
+* [Polyglot (ASE '25)](https://conf.researchr.org/details/ase-2025/ase-2025-papers/89/Polyglot-An-Extensible-Framework-to-Benchmark-Code-Translation-with-LLMs): A benchmarking framework for multilingual code translation (100,000+ translations).<br>
+* [TestForge (SANER '26)](https://conf.researchr.org/details/saner-2026/saner-2026-papers/38/TestForge-A-Benchmarking-Framework-for-LLM-Based-Test-Case-Generation): An automated evaluation framework for LLM-based JUnit test case generation.<br>
+
+💻 Tech Stack: My expertise spans Mobile & Full-Stack: React Native, TypeScript, Next.js, Node.js, and TanStack Query. I focus on building scalable systems, from geospatial engines to secure auth pipelines.<br>
+
+⚙️ DevOps & Architecture: Experienced with Docker, Terraform, and CI/CD. I enjoy designing clean, testable architectures that balance performance with rapid iteration.<br>
+
+📸 Offline: I’m a photographer who loves designing dynamic galleries, and I unwind with RPGs and sci-fi movies.<br>
+
 
 ## 📂 Portfolio:
 [![Priyam Shah](https://img.shields.io/badge/Priyam%20Shah-%23000000.svg?style=for-the-badge&color=blue)](https://priyamshahh.com)
@@ -33,7 +39,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-%2300B894.svg?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF6B81.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Powered--by--AI-%23FFB800?style=for-the-badge&logo=openai&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Powered--by--AI-\\%23FFB800?style=for-the-badge&logo=openai&logoColor=black)
 
 <!-- 🖥 Backend -->
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
